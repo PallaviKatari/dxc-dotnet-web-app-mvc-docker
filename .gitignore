@@ -1,0 +1,21 @@
+## .NET build output
+**/bin/
+**/obj/
+
+## Visual Studio and VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+## User-specific files
+*.userosscache
+*.sln.docstates
+
+## Logs and local settings
+*.log
+appsettings.Local.json
+
+## OS files
+.DS_Store
+Thumbs.db
